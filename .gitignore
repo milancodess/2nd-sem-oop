@@ -1,6 +1,11 @@
 # Generated documents and screenshots
 *.pdf
+*.doc
 *.docx
+*.docm
+*.dot
+*.dotx
+*.rtf
 *.png
 *.jpg
 *.jpeg
@@ -9,7 +14,3 @@
 *.webp
 *.svg
 /OutputImages/
-
-# Keep only the front page and lab-sheet index document tracked
-!Extra/FrontPage.docx
-!Extra/IndexLabSheet.docx
