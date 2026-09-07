@@ -1,11 +1,5 @@
-# Generated documents and screenshots
-*.pdf
-*.doc
-*.docx
-*.docm
-*.dot
-*.dotx
-*.rtf
+# Generated output PDFs and screenshots
+Output*.pdf
 *.png
 *.jpg
 *.jpeg
