@@ -1,0 +1,15 @@
+# Generated documents and screenshots
+*.pdf
+*.doc
+*.docx
+*.docm
+*.dot
+*.dotx
+*.rtf
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.webp
+*.svg
